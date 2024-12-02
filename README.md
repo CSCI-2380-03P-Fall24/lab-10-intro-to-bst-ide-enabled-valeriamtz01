@@ -1,5 +1,5 @@
 # Lab 10 - Intro to Binary Search Tree
-Complete the exercises in BSTlab1.cpp (class/function definitions - no main() function should be written).
+Complete the exercises in BSTlab1.cpp (class/function definitions - no main() function should be written). For the correctly implemented bonus, you are able to get 1% to your final grade. 
 
 In this lab you will implement some introductory operations on Binary Search Trees.
 
